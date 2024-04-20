@@ -1,3 +1,6 @@
+# CaliGod
+## This is a Calisthenics Website Prototype made by me using Figma
+
 ### Prototype:
 
 <img src="https://github.com/DenisGrudin1n/CaliGod/assets/157652311/2749fffb-10f8-424d-a243-5fe384508157" width="25%">
